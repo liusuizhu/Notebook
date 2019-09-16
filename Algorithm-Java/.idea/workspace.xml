@@ -42,6 +42,7 @@
   <component name="ProjectId" id="1Pa5YumDmblT9Rs1smSnQ71f0lm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -144,7 +145,7 @@
       <workItem from="1566182813434" duration="17992000" />
       <workItem from="1566272629586" duration="33000" />
       <workItem from="1568117363502" duration="1290000" />
-      <workItem from="1568327071334" duration="358000" />
+      <workItem from="1568327071334" duration="962000" />
     </task>
     <servers />
   </component>
