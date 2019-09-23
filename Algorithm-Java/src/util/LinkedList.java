@@ -65,10 +65,10 @@ public class LinkedList<E> implements List<E> {
         for (int i = 0; i < index; i++) {
             prev = prev.next;
         }
-//        Node node = new Node(e);
-//        node.next = prev.next;
-//        prev.next = node;
-        prev.next = new Node(e, prev.next);
+        Node node = new Node(e);
+        node.next = prev.next;
+        prev.next = node;
+
         size ++;
     }
 
