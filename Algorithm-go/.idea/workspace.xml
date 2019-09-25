@@ -1,26 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b976b931-08de-484c-b3da-cd629219d4f2" name="Default Changelist" comment="" />
+    <list default="true" id="52070911-cb8e-4950-899d-61952dbdac45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algorithm-go.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-go.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/array.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/array.go" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+  <component name="GOROOT" path="D:\Programs\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Kotlin Script" />
-        <option value="Go File" />
-      </list>
-    </option>
-  </component>
-  <component name="GOROOT" path="C:\Program Files\Go" />
   <component name="GoLibraries">
     <option name="urls">
       <list>
@@ -28,36 +25,17 @@
       </list>
     </option>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHome" value="C:/Tools/apache-maven-3.6.1" />
-        <option name="userSettingsFile" value="C:\Tools\apache-maven-3.6.1\conf\settings.xml" />
-      </MavenGeneralSettings>
-    </option>
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="jdkForImporter" value="1.8" />
-        <option name="vmOptionsForImporter" value="-Xmx768m" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="ProjectId" id="1Pe3I680wkss6bwYLMx01BomjW1" />
+  <component name="ProjectId" id="1RBFlXNEpYTQl4w0XoHWEBZdsqN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="configurable.Global.GOPATH.is.expanded" value="true" />
     <property name="configurable.Module.GOPATH.is.expanded" value="false" />
     <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\Libraries\Algorithm\Algorithm-go\src" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -87,29 +65,34 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration>C:\Users\liusuizhu\AppData\Roaming\Subversion</configuration>
+    <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b976b931-08de-484c-b3da-cd629219d4f2" name="Default Changelist" comment="" />
-      <created>1566220651149</created>
+      <changelist id="52070911-cb8e-4950-899d-61952dbdac45" name="Default Changelist" comment="" />
+      <created>1569132733586</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1566220651149</updated>
-      <workItem from="1566220654474" duration="6042000" />
-      <workItem from="1566272667433" duration="5072000" />
-      <workItem from="1566457858572" duration="2111000" />
-      <workItem from="1566537019563" duration="676000" />
-      <workItem from="1566617158873" duration="74000" />
-      <workItem from="1566617276363" duration="232000" />
-      <workItem from="1566617518901" duration="847000" />
-      <workItem from="1566616923591" duration="1016000" />
-      <workItem from="1567224580790" duration="1955000" />
-      <workItem from="1567261734517" duration="1992000" />
+      <updated>1569132733586</updated>
+      <workItem from="1569132735242" duration="545000" />
+      <workItem from="1569409146716" duration="670000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

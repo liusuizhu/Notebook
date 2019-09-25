@@ -82,6 +82,15 @@ func (this *array) Set(index int, e int)  {
 	this.data[index] = e
 }
 
+func (this *array) Find(e interface{}) int {
+	for i := 0; i < this.size; i++ {
+		if Interfaces.Compare(this.data[i], e) == 0 {
+			return i
+		}
+	}
+	return -1;
+}
+
 func (this *array) Contains(e int) bool {
 	for i := 0; i < this.size; i ++ {
 		if this.data[i] == e {
