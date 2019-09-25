@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52070911-cb8e-4950-899d-61952dbdac45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algorithm-go.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm-go.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/array.go" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/array.go" afterDir="false" />
-    </list>
+    <list default="true" id="52070911-cb8e-4950-899d-61952dbdac45" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +70,7 @@
       <updated>1569132733586</updated>
       <workItem from="1569132735242" duration="545000" />
       <workItem from="1569409146716" duration="670000" />
+      <workItem from="1569409969010" duration="211000" />
     </task>
     <servers />
   </component>
