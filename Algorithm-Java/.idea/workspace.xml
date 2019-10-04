@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6401036f-425a-45a7-84db-3313552ff0da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/util/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/LinkedList.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -149,8 +148,19 @@
       <workItem from="1568117363502" duration="1290000" />
       <workItem from="1568327071334" duration="962000" />
       <workItem from="1568873213547" duration="5000" />
-      <workItem from="1568991662902" duration="1846000" />
+      <workItem from="1568991662902" duration="4568000" />
+      <workItem from="1569829865232" duration="46000" />
+      <workItem from="1569829965468" duration="212000" />
+      <workItem from="1569904370867" duration="28000" />
     </task>
+    <task id="LOCAL-00001" summary="修改链表list插入">
+      <created>1569215684278</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569215684278</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,5 +178,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改链表list插入" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改链表list插入" />
   </component>
 </project>
