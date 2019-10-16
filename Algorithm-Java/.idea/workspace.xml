@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6401036f-425a-45a7-84db-3313552ff0da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Java/META-INF/Algorithm-Java.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Java/util/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Java/util/LinkedList.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,59 +64,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="LinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="util.LinkedList" />
-      <module name="Algorithm-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="util.LinkedListQueue" />
-      <module name="Algorithm-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LinkedListStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="util.LinkedListStack" />
-      <module name="Algorithm-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoopQueue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="util.LoopQueue" />
-      <module name="Algorithm-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Algorithm-Java" />
@@ -125,10 +75,6 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LinkedListQueue" />
-        <item itemvalue="Application.LinkedListStack" />
-        <item itemvalue="Application.LinkedList" />
-        <item itemvalue="Application.LoopQueue" />
       </list>
     </recent_temporary>
   </component>
@@ -152,6 +98,8 @@
       <workItem from="1569829865232" duration="46000" />
       <workItem from="1569829965468" duration="212000" />
       <workItem from="1569904370867" duration="28000" />
+      <workItem from="1570704946275" duration="1351000" />
+      <workItem from="1571203676253" duration="278000" />
     </task>
     <task id="LOCAL-00001" summary="修改链表list插入">
       <created>1569215684278</created>
