@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6401036f-425a-45a7-84db-3313552ff0da" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Java/META-INF/Algorithm-Java.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algorithm-Java/util/LinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algorithm-Java/util/LinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/util/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/util/List.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +98,7 @@
       <workItem from="1569829965468" duration="212000" />
       <workItem from="1569904370867" duration="28000" />
       <workItem from="1570704946275" duration="1351000" />
-      <workItem from="1571203676253" duration="278000" />
+      <workItem from="1571203676253" duration="2854000" />
     </task>
     <task id="LOCAL-00001" summary="修改链表list插入">
       <created>1569215684278</created>

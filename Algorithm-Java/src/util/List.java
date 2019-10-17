@@ -27,4 +27,8 @@ public interface List<E> {
     E removeFirst();
 
     E removeLast();
+
+    default void test() {
+        this.toString();
+    }
 }

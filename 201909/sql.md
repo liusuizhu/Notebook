@@ -14,4 +14,3 @@ alter table
 drop table
 create index
 drop index
-
